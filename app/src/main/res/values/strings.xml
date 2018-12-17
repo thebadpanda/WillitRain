@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WillitRain</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="choose_your_city">Choose your city</string>
+    <string name="celsius">°C</string>
+    <string name="city">CITY</string>
+    <string name="wind_speed">Wind speed:</string>
+    <string name="wind_direction">Wind direction:</string>
+    <string name="tap_to_set_marker_click_on_marker_to_open_weather_options">Tap to set marker. Click on marker to open weather options</string>
+    <string name="feels_like">Feels like:</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="sunset">Sunset:</string>
+    <string name="you_are_offline">You are offline. \n Check network connection to get current weather info</string>
+    <string name="we_will_wait_for_you">We will wait for You…</string>
+    <string name="quit_app">Quit App</string>
+    <string name="m_s">m/s</string>
+</resources>
